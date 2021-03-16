@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <!--
 **feceleri/feceleri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<img align="right" width="400" height="400" src="coloque_o_link_de_uma_foto_ou_gif_aqui">
+<img align="right" width="400" height="400" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif">
  
 # Welcome!
  
