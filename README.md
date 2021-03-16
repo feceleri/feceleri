@@ -43,8 +43,9 @@ Here are some ideas to get you started:
 [![Whatsapp Badge](https://img.shields.io/badge/-Whatsapp-4CA143?style=flat-square&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=5511980438232&text=Hello!)](https://api.whatsapp.com/send?phone=5511980438232&text=Hello!)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:felipeceleri@gmail.com)](mailto:felipeceleri@gmail.com)
 
+##
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feceleri&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
-- Thanks for visiting. 
- 
+##
+- Thanks for visiting.  
 - Enjoy it!! o/
