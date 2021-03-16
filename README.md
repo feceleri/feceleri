@@ -20,13 +20,13 @@ Here are some ideas to get you started:
 <p>Welcome to my page! </br> I'm Felipe Celeri, Fullstack developer from . </p>
 <h3>Things I code with</h3>
 <p>
-  <img alt="PHP" src="https://img.shields.io/badge/-React-45b8d8?style=flat-square&logo=react&logoColor=white" />
-  <img alt="CI" src="https://img.shields.io/badge/-Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=white" /> 
-  <img alt="HTML5" src="https://img.shields.io/badge/-Docker-46a2f1?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="PHP" src="https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white" />
+  <img alt="CI" src="https://img.shields.io/badge/-Codeigniter-EF4223?style=flat-square&logo=Codeigniter&logoColor=white" /> 
+  <img alt="HTML5" src="https://img.shields.io/badge/-html5-e34f26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
-  <img alt="JQuery" src="https://img.shields.io/badge/-Google_Cloud_Platform-1a73e8?style=flat-square&logo=google-cloud&logoColor=white" />
-  <img alt="Javascript" src="https://img.shields.io/badge/-TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white" />
+  <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769ad?style=flat-square&logo=JQuery&logoColor=white" />
+  <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white" />
   
 </p>
  
