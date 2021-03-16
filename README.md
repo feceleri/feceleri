@@ -26,11 +26,13 @@ Here are some ideas to get you started:
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769ad?style=flat-square&logo=JQuery&logoColor=white" />
   <img alt="Javascript" src="https://img.shields.io/badge/-Javascript-f7df1e?style=flat-square&logo=Javascript&logoColor=white" />
-  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=Bootstrap&logoColor=white" />
-   <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=GitHub&logoColor=white" />
+  <img alt="Joomla" src="https://img.shields.io/badge/-Joomla-5091cd?style=flat-square&logo=Joomla&logoColor=white" />
   <img alt="VScode" src="https://img.shields.io/badge/-VSCode-007acc?style=flat-square&logo=visual-studio-code&logoColor=white" />
-  
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white" />  
+  <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white" />  
 </p>
  
 ## I'm Felipe Celeri!
