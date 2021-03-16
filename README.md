@@ -29,7 +29,7 @@ Here are some ideas to get you started:
   <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479a1?style=flat-square&logo=MySQL&logoColor=white" />
   <img alt="Bootstrap" src="https://img.shields.io/badge/-Bootstrap-7952b3?style=flat-square&logo=Bootstrap&logoColor=white" />
    <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
-  <img alt="VScode" src="https://img.shields.io/badge/-Visual-Studio-code-007acc?style=flat-square&logo=Visual-Studio-code&logoColor=white" />
+  <img alt="VScode" src="https://img.shields.io/badge/-Visualstudiocode-007acc?style=flat-square&logo=Visualstudiocode&logoColor=white" />
   
 </p>
  
