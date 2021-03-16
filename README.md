@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
 
-<p>Welcome to my page! </br> I'm Felipe Celeri, Fullstack developer from . </p>
+<p>Welcome to my page! </br> I'm Felipe Celeri, Fullstack developer from São Paulo, Brazil. </p>
 <h3>Things I code with</h3>
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white" />
@@ -35,12 +35,7 @@ Here are some ideas to get you started:
   <img alt="Ubuntu" src="https://img.shields.io/badge/-Ubuntu-e95420?style=flat-square&logo=Ubuntu&logoColor=white" />  
 </p>
  
-## I'm Felipe Celeri!
- 
-- 🔭 I’m currently working with CodeIgniter 4
-- 🌱 I’m currently learning a little everything
- 
- 
+
 ## Contact me 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/feceleri/)](https://github.com/feceleri/)
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/feceleri/)](https://www.linkedin.com/in/feceleri/)
