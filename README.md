@@ -30,5 +30,8 @@ Here are some ideas to get you started:
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:seu_email)](mailto:felipeceleri@gmail.com)
  
 - Thanks for visiting. 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feceleri&layout=compact)](https://github.com/feceleri/github-readme-stats)
+
  
 - Enjoy it!! o/
