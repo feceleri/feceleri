@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 <h3>Things I code with</h3>
 <p>
   <img alt="PHP" src="https://img.shields.io/badge/-PHP-777bb4?style=flat-square&logo=php&logoColor=white" />
-  <img alt="CI" src="https://img.shields.io/badge/-Codeigniter-EF4223?style=flat-square&logo=Codeigniter&logoColor=white" /> 
+  <img alt="CI" src="https://img.shields.io/badge/-Codeigniter4-EF4223?style=flat-square&logo=Codeigniter&logoColor=white" /> 
   <img alt="HTML5" src="https://img.shields.io/badge/-html5-e34f26?style=flat-square&logo=html5&logoColor=white" />
   <img alt="CSS3" src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white" />
   <img alt="JQuery" src="https://img.shields.io/badge/-JQuery-0769ad?style=flat-square&logo=JQuery&logoColor=white" />
