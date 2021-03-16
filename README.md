@@ -14,12 +14,11 @@ Here are some ideas to get you started:
 -->
 
 <img align="right" width="480" height="270" src="https://media.giphy.com/media/QNFhOolVeCzPQ2Mx85/giphy.gif">
- 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feceleri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 # Welcome!
  
 ## I'm Felipe Celeri!
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=feceleri&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
  
 - 🔭 I’m currently working with CodeIgniter 4
 - 🌱 I’m currently learning a little everything
